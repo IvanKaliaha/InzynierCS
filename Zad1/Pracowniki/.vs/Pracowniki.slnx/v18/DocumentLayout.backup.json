@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BaraXenosan\\source\\repos\\Pracowniki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45301F47-572E-44C0-84EF-A6F319F44B2C}|Pracowniki\\Pracowniki.csproj|c:\\users\\baraxenosan\\source\\repos\\pracowniki\\pracowniki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45301F47-572E-44C0-84EF-A6F319F44B2C}|Pracowniki\\Pracowniki.csproj|solutionrelative:pracowniki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45301F47-572E-44C0-84EF-A6F319F44B2C}|Pracowniki\\Pracowniki.csproj|c:\\users\\baraxenosan\\source\\repos\\pracowniki\\pracowniki\\inzynier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45301F47-572E-44C0-84EF-A6F319F44B2C}|Pracowniki\\Pracowniki.csproj|solutionrelative:pracowniki\\inzynier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inzynier.cs",
+              "DocumentMoniker": "C:\\Users\\BaraXenosan\\source\\repos\\Pracowniki\\Pracowniki\\Inzynier.cs",
+              "RelativeDocumentMoniker": "Pracowniki\\Inzynier.cs",
+              "ToolTip": "C:\\Users\\BaraXenosan\\source\\repos\\Pracowniki\\Pracowniki\\Inzynier.cs",
+              "RelativeToolTip": "Pracowniki\\Inzynier.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T13:11:50.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BaraXenosan\\source\\repos\\Pracowniki\\Pracowniki\\Program.cs",
+              "RelativeDocumentMoniker": "Pracowniki\\Program.cs",
+              "ToolTip": "C:\\Users\\BaraXenosan\\source\\repos\\Pracowniki\\Pracowniki\\Program.cs*",
+              "RelativeToolTip": "Pracowniki\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T13:10:50.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
