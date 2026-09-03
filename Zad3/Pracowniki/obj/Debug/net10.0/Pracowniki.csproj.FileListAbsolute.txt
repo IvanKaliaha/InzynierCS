@@ -1,0 +1,15 @@
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\obj\Debug\net10.0\Pracowniki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\obj\Debug\net10.0\Pracowniki.AssemblyInfoInputs.cache
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\obj\Debug\net10.0\Pracowniki.AssemblyInfo.cs
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\obj\Debug\net10.0\Pracowniki.csproj.CoreCompileInputs.cache
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\bin\Debug\net10.0\Pracowniki.exe
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\bin\Debug\net10.0\Pracowniki.deps.json
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\bin\Debug\net10.0\Pracowniki.runtimeconfig.json
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\bin\Debug\net10.0\Pracowniki.dll
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\bin\Debug\net10.0\Pracowniki.pdb
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\obj\Debug\net10.0\Pracowniki.dll
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\obj\Debug\net10.0\refint\Pracowniki.dll
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\obj\Debug\net10.0\Pracowniki.pdb
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\obj\Debug\net10.0\Pracowniki.genruntimeconfig.cache
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\obj\Debug\net10.0\ref\Pracowniki.dll
+C:\Users\BaraXenosan\source\repos\Pracowniki\Pracowniki\obj\Debug\net10.0\Pracowniki.csproj.Up2Date
